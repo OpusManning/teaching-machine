@@ -1,0 +1,23 @@
+When every response is reinforced, we speak of continuous reinforcement.
+Often, however, an operant is reinforced only occasionally, that is, reinforce-
+ment is intermittent. In one type of intermittent reinforcement, a response
+is reinforced only after a certain number of responses have been emitted
+(ratio reinforcement). In another type, a response is reinforced only after
+a certain time has passed (interval reinforcement). A given schedule is pro-
+grammed by apparatus composed of timers, counters, relays, etc.
+
+F ood-deprived pigeons were reinforced with food for pecking a key in a
+standard experimental box. Typical portions of actual cumulative records
+are given to show the rate, and changes in rate, at which each pigeon pecked
+the key under various schedules of reinforcement.
+
+EXPERIMENT 1.
+
+A fixed-interval schedule. The experi-
+mental equipment includes a timer which
+starts just after reinforcement. After 10
+minutes has elapsed, the key and maga-
+zine are connected and the next response
+is reinforced. Responses during the 10-
+minute interval are not reinforced.
+

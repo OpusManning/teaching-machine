@@ -1,0 +1,36 @@
+EXPERIMENT 1.
+A fixed-interval schedule.
+
+EXPERIMENT 2.
+
+A variable-interval schedule.
+The experimental equipment is
+arranged so that a response is re-
+inforced after an interval of time,
+which may vary from a few sec-
+onds to 6 minutes, measured from
+the previous reinforcement. The
+average interval is 3 minutes.
+
+EXPERIMENT 3.
+
+A fixed-ratio schedule. Rein-
+forcement occurs only at the 210th
+(Record A) or the 900th response
+(Record B) after the preceding
+reinforcement. (Such large ratios
+can be reached only by beginning
+with smaller ratios and gradually
+increasing them.)
+
+EXPERIMENT 4.
+
+Resistance to extinction varies with the type of schedule to which the
+organism has been conditioned. Operants maintained by continuous rein-
+forcement extinguish rapidly when reinforcement is discontinued (the organ-
+ism seldom emits more than a few hundred unreinforced responses Operants
+maintained by intermittent reinforcement take considerably longer to extin-
+guish. For example, in one experiment, after the response had been main-
+tained on a fixed ratio of 900 and reinforcement was then discontinued, the
+pigeon emitted 73,000 responses during the first 4% hours of extinction.
+

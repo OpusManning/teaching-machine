@@ -1,0 +1,34 @@
+This is a hungry pigeon in a standard experimental space, an enclosed rec-
+
+tangular chamber or box. Stimuli eliciting reﬂex behavior may be neglected.
+The pigeon eventually pecks the small disk-shaped key. The food magazine
+operates automatically, making food available immediately after a peck
+(response) on the key. We ob-
+serve that when the pigeon has
+peeked the key and received
+food, it soon pecks again (and
+receives food and pecks again,
+etc.), i.e., the rate or frequency
+of pecking is increased. Because
+the rate increases when the re-
+sponse is followed by food, food
+is said to reinforce the response.
+Food is called a reinforcer, and
+the event reinforcement. Because
+the response does not appear to
+be produced by an eliciting stim-
+ulus, it is said to be emitted. This
+type of behavior, which operates
+or acts upon the environment, is
+called operant behavior}
+
+If after the operant (key pecking) has been conditioned, the pigeon no
+longer receives food when it pecks, the rate of emitting responses decreases
+until it reaches the low rate which prevailed before conditioning. This
+process is called extinction.
+
+‘When referring to behavior, generally, rather than to specific instances of it, we use the
+term operant, e.g., key pecking is an operant; but for speciﬁc instances, we use the term
+response, e.g., a peck on the key is a response. (Reﬂex behavior, which we have already
+studied, is call-ed respondent behavior. It occurs only in response to eliciting stimuli.)
+

@@ -1,0 +1,32 @@
+A stimulus present when a response is emitted and reinforced becomes a
+
+discriminative stimulus (SD). In the future, the response is relatively likely
+
+to be emitted when this stimulus is present. Other stimuli having something
+in common with SD are also effective, but produce a lower response fre-
+quency. The spread of controlling power to other stimuli is called stimulus
+generalization.
+
+EXPERIMENT
+
+Phase 1. A pigeon is placed in a standard experimental box. A yellowish-
+green light with a wavelength of 550 millimicrons is constantly projected on
+the key. The l<ey—pecking response, shaped in the usual way, is reinforced
+on a variable-interval schedule, the average interval between reinforcements
+being 1 minute. This schedule generates a steady rate of responding and,
+more important here, a considerable resistance to extinction.
+
+Phase 2. Reinforcement is discontin-
+ued, and during extinction the color of
+the light projected on the key is changed
+at short, regular intervals. Each of six-
+teen colors, 10 millimicrons apart, is
+presented many times in random order
+and for the same total time per color.
+The responses emitted by the pigeon
+in the presence of each wavelength
+(color) are counted and plotted in the
+figure on the right. The resulting func-
+tion is called stimulus generalization
+gradient.
+

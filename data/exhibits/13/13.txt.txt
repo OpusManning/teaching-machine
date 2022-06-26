@@ -1,0 +1,41 @@
+EXPERIMENT 1.
+
+Preliminary treatment. A food-deprived pigeon is placed for the first time
+in a standard experimental box, and the feeding mechanism is operated
+by the experimenter from time to time. When the mechanism operates, there
+is a loud click. When first placed in the box, and for the first several clicks
+of the mechanism, the pigeon may jump, ﬂap its wings, and rush about.
+After a while, this “emotional” behavior ceases. We say that adaptation has
+taken place. The pigeon eventually learns to turn toward and approach the
+feeding mechanism, or food magazine, whenever it hears the click.
+
+Conditioned key pecking. A plastic disk is now attached behind a circular
+opening in the wall of the box above the feeding mechanism. The disk acts
+as an electric key. When the pigeon pecks the key, a circuit is closed causing
+the feeding mechanism to operate. (The experimenter no longer operates
+the mechanism.) Cumulative records of all responses to the key are made.
+Two examples are shown in Figures 1A and 1B. All responses were reinforced,
+but the usual sideward movements of the pen to indicate reinforcement
+are ‘omitted.
+
+EXPERIMENT 2.
+
+An inexperienced pigeon is placed in the box. No preliminary magazine
+training is given, that is, no attempt is made to adapt the pigeon to the
+box and the click, or to establish the click as a conditioned reinforcer. The
+key is connected to the feeding mechanism from the start. The cumulative
+record is shown in Figure 2.
+
+“THE LEARNING CURVE”
+
+Early investigators observed organisms in puzzle boxes, mazes, and similar
+situations. They measured successive delays in responding and plotted these
+in a “learning curve,” believing that they
+were plotting the course of a basic learn-
+ing process. Experiment 2 (Pigeon C) is
+comparable.
+
+Plotted on the right are the delays be-
+tween successive reinforced responses on
+the key.
+

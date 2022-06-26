@@ -1,0 +1,36 @@
+Example: How to train a dog to touch a doorknob with its nose.
+
+You will need a reinforcer which can be presented very quickly when the
+behavior is emitted. A conditioned reinforcer is most convenient, for example,
+an auditory stimulus such as the sound of a dime-store noisemaker or
+“cricket.” Condition the dog by sounding the cricket just before tossing a
+small piece of food into a dish. Repeat until the dog goes to the dish as
+soon as the cricket sounds.
+
+You could condition the desired response by waiting until the dogs nose
+touched the knob and then reinforcing, but you might have to wait a long
+time. To avoid this, shape (or cliﬂerentiate) the behavior. At first, reinforce
+any response remotely related to the ﬁnal form. For example, the dog may
+be sitting still, and it will never touch the knob doing that. Therefore,
+reinforce any slight movement by sounding the toy cricket as soon as the dog
+moves, tossing asmall scrap of food into the dish. (The advantage of an
+auditory conditioned reinforcer is that it reaches the dog instantly no matter
+where the dog is looking.) When the dog is moving about, reinforce move-
+ments in the general direction of the door and withhold reinforcements for
+movements in any other direction (diﬁerential reinforcement). Gradually
+shape the behavior of moving closer to the door and then closer to the knob.
+Then reinforce bringing the head closer to the knob. Finally deliver a rein-
+forcement only when the dog is touching the knob with its nose. This gradual
+shifting of the criterion of differential reinforcement is known as successive
+approximation. The entire process should take only a few minutes.
+
+Although the goal is to get the dogs nose to touch the doorknob, a large
+pattern of behavior is strengthened byreinforcement. The dog must approach
+the door, assume a particular posture, and so on. The various elements of
+the total response must all be conditioned in the shaping process.
+
+If we now want to condition a differentresponse, a first response may be  
+
+a help or a hindrance, depending on  whether the two responses share
+common elements.  
+
