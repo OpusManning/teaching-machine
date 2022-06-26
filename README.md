@@ -1,2 +1,2 @@
 # teaching-machine
-Programmed instruction using the Godot Engine.  Connects to remote database to store performance data.
+Programmed instruction using Tcl/Tk.  Demonstration of the use of programmed instruction.
