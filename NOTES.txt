@@ -1,0 +1,3 @@
+Might be able to connect the following ActiveX for use with TK:
+<object classid="clsid:06A7EC63-4E21-11D0-A112-00A0C90543AA"
+id="eye"></object>
